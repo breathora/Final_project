@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/breathora/React_AR.git/static/css/main.88ec8aa2.css",
+    "main.js": "/breathora/React_AR.git/static/js/main.84e7ac82.js",
+    "static/js/453.be2d2cea.chunk.js": "/breathora/React_AR.git/static/js/453.be2d2cea.chunk.js",
+    "static/media/logo.svg": "/breathora/React_AR.git/static/media/logo.b15c2c557f5a021d7ea08d5b2076f533.svg",
+    "index.html": "/breathora/React_AR.git/index.html",
+    "main.88ec8aa2.css.map": "/breathora/React_AR.git/static/css/main.88ec8aa2.css.map",
+    "main.84e7ac82.js.map": "/breathora/React_AR.git/static/js/main.84e7ac82.js.map",
+    "453.be2d2cea.chunk.js.map": "/breathora/React_AR.git/static/js/453.be2d2cea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ec8aa2.css",
+    "static/js/main.84e7ac82.js"
+  ]
+}
